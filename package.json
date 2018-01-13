@@ -1,0 +1,28 @@
+{
+  "name": "hexo-renderer-webpack3",
+  "version": "1.0.0",
+  "description": "Bundle and serve JavaScript in Hexo with Webpack",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colbin8r/hexo-renderer-webpack3.git"
+  },
+  "keywords": [
+    "hexo",
+    "renderer",
+    "webpack",
+    "webpack3"
+  ],
+  "author": "Colby Rogness",
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/colbin8r/hexo-renderer-webpack3/blob/master/LICENSE"
+  },
+  "bugs": {
+    "url": "https://github.com/colbin8r/hexo-renderer-webpack3/issues"
+  },
+  "homepage": "https://github.com/colbin8r/hexo-renderer-webpack3#readme",
+  "dependencies": {
+    "webpack": "^3.10.0"
+  }
+}
